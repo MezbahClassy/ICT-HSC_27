@@ -3,10 +3,10 @@
 </head> 
 <body>
 <h1> <b>Quick </b><i>brown</i> <u>bilai</u></h1>
-<del>Jumps over</del> the lazy<sup>dog</sup>
+<del>Jumps over</del> the lazy<sup>dog</sup><br>
 and<sup>then</sup> <i><b>it fell</b></i><br>
-<u>prey to a tiger</u>
-2H<sub>2</sub>O+O<sub>2</sub>=2H<sub>2</sub>O
+<u>prey to a tiger</u><br>
+2H<sub>2</sub>O+O<sub>2</sub>=2H<sub>2</sub>O<br>
 x<sup>5</sup>+x<sup>4</sup>+x<sup>3</sup>+x<sup>2</sup>+x+1=0
 
 
